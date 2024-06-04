@@ -2,8 +2,6 @@ from bakery import assert_equal
 from drafter import *
 from dataclasses import dataclass
 
-from drafter import *
-from dataclasses import dataclass
 
 @dataclass
 class State:
